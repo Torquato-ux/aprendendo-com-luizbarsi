@@ -86,8 +86,12 @@ Durante a atividade aprendi que o NotebookLM:
 
 ### Notebook criado
 
-[./images/notebooklm-luizbarsi.png](https://notebooklm.google.com/notebook/cb22c817-4502-4222-b673-f3bebfe7dc9b?pli=1)
+[notebooklm-luizbarsi.png](https://notebooklm.google.com/notebook/cb22c817-4502-4222-b673-f3bebfe7dc9b?pli=1)
 
+
+## Infográfico gerado pelo NotebookLM
+
+![Infográfico gerado pelo NotebookLM](O_Jeito_)
 
 ---
 
