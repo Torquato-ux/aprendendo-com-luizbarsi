@@ -1,41 +1,96 @@
-# aprendendo-com-luizbarsi
-Aprendendo a investir como Luiz Barsi: notas, insights e estudos gerados com NotebookLM.
-# Estudo: Estratégia de Investimentos de Luiz Barsi
+# Meu Primeiro NotebookLM
 
-## Introdução
-Este repositório contém entrevistas, análises e biografia sobre a filosofia de investimentos de Luiz Barsi, utilizando o NotebookLM para processar e sintetizar conteúdos.
+## Sobre o Projeto
 
-## Principais Conceitos Aprendidos
-# Estudo: Estratégia de Investimentos de Luiz Barsi
+Este repositório documenta minha experiência utilizando o Google NotebookLM pela primeira vez.
 
-Este repositório documenta minha jornada de aprendizado utilizando o **NotebookLM**. O foco principal é testar e validar um método eficiente de organização de conhecimento e extração de informações a partir de fontes confiáveis.
+Para realizar o teste da ferramenta, escolhi um tema de investimento introdutorio: Luiz Barsi Filho, investidor conhecido do mercado financeiro brasileiro como "O Rei da bolsa".
 
-## Metodologia de Estudo
+O objetivo principal não foi estudar investimentos, mas aprender a utilizar os recursos do NotebookLM para organizar informações, gerar resumos e criar materiais de apoio ao estudo.
 
-O processo seguiu estas etapas fundamentais:
+---
 
-- **Pesquisa e Curadoria:** Realizei a busca de dados na internet sobre a trajetória e estratégia de investimentos de Luiz Barsi, selecionando fontes relevantes e de credibilidade.
-- **Organização de Fontes:** Consolidei o material coletado em blocos de notas organizados, garantindo que o conteúdo estivesse limpo e pronto para inclusão.
-- **Integração com o NotebookLM:** Submeti as fontes selecionadas à plataforma, criando uma base de conhecimento exclusiva e integrada.
-- **Extração de Insights (Prompts):** Realizei testes práticos com a IA, utilizando *prompts* estruturados para questionar as fontes e obter respostas precisas e baseadas exclusivamente no material fornecido.
-- **Validação:** O objetivo final foi verificar a capacidade da ferramenta em sintetizar informações complexas e servir como um "mentor virtual" para o aprendizado sobre o mercado financeiro.
+## Objetivos de Aprendizagem
 
-> Este fluxo de trabalho me permitiu transformar grandes volumes de informações em respostas curtas e aplicáveis, reduzindo o tempo de estudo e aumentando a retenção do conteúdo.
+Durante esta atividade, busquei aprender como:
+
+- Criar um notebook no NotebookLM;
+- Adicionar diferentes tipos de fontes;
+- Organizar conteúdos em um único ambiente;
+- Criar perguntas estratégicas
+- Produzir materiais de estudo a partir das fontes inseridas.
+
+---
+
+## Passo a Passo da Criação
+
+### 1. Escolha do Tema
+
+Escolhi Luiz Barsi Filho como tema para testar as funcionalidades da plataforma, conforme orientação do projeto; o que me fez escolhe-lo é o fato de ser brasileiro e possuir investimentos até hoje!
+
+### 2. Criação do Notebook
+
+Criei um novo notebook com o título:
+
+> Aprenda com o rei da bolsa: Luiz Barsi Filho
+
+### 3. Adição das Fontes
+
+Foram adicionadas múltiplas fontes relacionadas ao tema, incluindo:
+
+- Vídeos do YouTube;
+- Artigos da web;
+- Conteúdos educacionais;
+- Materiais sobre a estratégia de investimentos de Luiz Barsi.
+
+Além disso, utilizei da utilidade da propria ferramenta de "Pesquise novas fontes na Web" que enriqueceu a possibilidade de estudos, ao final, o notebook continha 19 fontes.
+
+### 4. Exploração dos Recursos
+
+Após carregar as fontes, utilizei os recursos disponibilizados pelo NotebookLM, como:
+
+- Resumo automático;
+- Mapa mental;
+- Perguntas sobre investimentos
+- Infográficos.
+
+### 5. Interação com a IA
+
+Utilizei a área de conversa para realizar perguntas sobre o conteúdo das fontes.
+
+Exemplos:
+
+- Como Luiz Barsi calcula o preço teto de uma ação?
+- O que Barsi indica para investidores iniciantes?
+- Em que ano nasceu Luiz Barsi filho?
+
+### 6. Consolidação dos Resultados
+
+Os conteúdos gerados pela ferramenta permitiram transformar diversas fontes em um material organizado e fácil de consultar com respostas muito satisfatórias.
+
+---
+
+## Aprendizados Obtidos
+
+Durante a atividade aprendi que o NotebookLM:
+
+- Centraliza informações de diferentes fontes;
+- Facilita a pesquisa em grandes volumes de conteúdo;
+- Ajuda na criação de resumos rápidos;
+- Permite gerar materiais de estudo automaticamente;
+- Pode ser utilizado para acelerar processos de aprendizagem.
+
+---
+
+## Evidências
+
+### Notebook criado
+
+[./images/notebooklm-luizbarsi.png](https://notebooklm.google.com/notebook/cb22c817-4502-4222-b673-f3bebfe7dc9b?pli=1)
+
+---
 
 ## Conclusão
-Este projeto serve como um "diário de bordo" do meu aprendizado prático com ferramentas de IA e organização de dados.
 
-
-## Como este estudo foi feito
-- **Ferramenta:** NotebookLM.
-- **Fontes:**
-https://youtu.be/at-bQ612x7w?is=oKYioVSOdrk7rD3u
-https://youtu.be/NMGmeNwj4lo?is=lzVP8KVx82ve8ZtR
-https://youtu.be/ozpG1WqTlYA?is=k7SFXQ6EbJmgH1-T
-https://youtu.be/y05NMGqRpdE?is=ssepYNTPV8stYkhD
-
-Textos e matérias:
-https://www.suno.com.br/tudo-sobre/luiz-barsi/
-https://investnews.com.br/perfis/luiz-barsi/
-https://pt.wikipedia.org/wiki/Luiz_Barsi_Filho
+A atividade permitiu conhecer as principais funcionalidades do NotebookLM e compreender seu potencial como ferramenta de apoio aos estudos e à organização do conhecimento.
 
