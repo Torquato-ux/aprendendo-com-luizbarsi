@@ -76,8 +76,6 @@ Após carregar as fontes, utilizei os recursos disponibilizados pelo NotebookLM,
 
 Utilizei a área de conversa para realizar perguntas sobre o conteúdo das fontes.
 
-Exemplos:
-
 ### Pergunta 1: Como Luiz Barsi calcula o preço teto de uma ação?
 
 **Resposta resumida:**
@@ -126,6 +124,24 @@ juros compostos comecem a se tornar visíveis.
 **Resposta resumida:**
 Luiz Barsi Filho nasceu em 10 de março de 1939, no bairro do Brás,
 em São Paulo.
+
+---
+
+### Dificuldade encontrada: respostas excessivamente longas
+
+Durante as interações, percebi que o NotebookLM tende a retornar
+respostas muito extensas e detalhadas, mesmo para perguntas simples
+e objetivas — o que dificultava a leitura rápida e a extração direta
+da informação buscada.
+
+**Ajuste testado:** passei a adicionar instruções de formato
+diretamente no prompt, como "responda de forma objetiva, em até 3
+frases" ou "liste em bullets os pontos principais, sem introdução".
+
+**Resultado:** o ajuste funcionou bem — as respostas ficaram mais
+curtas, diretas e fáceis de aproveitar nos resumos, sem perder as
+informações essenciais.
+
 ### 6. Consolidação dos Resultados
 
 Os conteúdos gerados pela ferramenta permitiram transformar diversas fontes em um material organizado e fácil de consultar com respostas muito satisfatórias.
@@ -150,7 +166,6 @@ Durante a atividade aprendi que o NotebookLM:
 
 [Aprenda com o rei da bolsa: Luiz Barsi](https://notebooklm.google.com/notebook/cb22c817-4502-4222-b673-f3bebfe7dc9b?pli=1)
 
-
 ## Infográfico gerado pelo NotebookLM
 
 ![Infográfico gerado pelo NotebookLM](O_Jeito_Barsi_de_Investir.png)
@@ -160,4 +175,3 @@ Durante a atividade aprendi que o NotebookLM:
 ## Conclusão
 
 A atividade permitiu conhecer as principais funcionalidades do NotebookLM e compreender seu potencial como ferramenta de apoio aos estudos e à organização do conhecimento.
-
