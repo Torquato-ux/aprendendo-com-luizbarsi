@@ -78,9 +78,29 @@ Utilizei a área de conversa para realizar perguntas sobre o conteúdo das fonte
 
 Exemplos:
 
-- Como Luiz Barsi calcula o preço teto de uma ação?
-- O que Barsi indica para investidores iniciantes?
-- Em que ano nasceu Luiz Barsi filho?
+### Pergunta 1: Como Luiz Barsi calcula o preço teto de uma ação?
+**Resposta resumida:**
+- Fórmula base: Preço Teto = Dividendo por Ação (DPA) ÷ Yield Mínimo Esperado
+- Barsi usa 6% ao ano como yield mínimo histórico de referência
+- Existem 2 métodos para definir o DPA: média dos dividendos pagos nos últimos 6 anos (mais conservador) ou dividendo projetado (lucro projetado × payout, ou guidance da empresa)
+- Recomenda excluir dividendos extraordinários/não recorrentes do cálculo da média
+- Ação abaixo do preço teto = "barata" (margem de segurança); acima do teto = melhor esperar ou buscar outro ativo
+- Método funciona melhor em setores perenes e previsíveis (ex: BESST); menos eficaz em empresas dependentes de commodities ou câmbio
+  
+### Pergunta 2: O que Barsi indica para investidores iniciantes?
+**Resposta resumida:**
+- Base é a "Filosofia Previdenciária": ações como fonte de renda mensal vitalícia, não especulação
+- Foco na renda gerada (dividendos), não no valor total da carteira
+- Método BESST para seleção de setores: Bancos, Energia Elétrica, Saneamento, Seguros, Telecomunicações (evitar setores cíclicos como aviação, varejo, turismo)
+- Prática recomendada: aportes mensais frequentes + reinvestimento integral dos dividendos ("bola de neve") — a partir do 6º ano, os próprios dividendos costumam bancar novas compras
+- Mentalidade de "pequeno dono": estudar a empresa, entender balanços, não vender se o dono majoritário não vende
+- Evitar modismos e "dicas" de mercado (ex: criptomoedas)
+- Os primeiros R$ 100 mil são os mais difíceis de acumular — fase de disciplina antes dos juros compostos ficarem visíveis
+
+  
+- ### Pergunta 3: Em que ano nasceu Luiz Barsi Filho?
+**Resposta resumida:**
+- Nasceu em 10 de março de 1939, no bairro do Brás, em São Paulo
 
 ### 6. Consolidação dos Resultados
 
