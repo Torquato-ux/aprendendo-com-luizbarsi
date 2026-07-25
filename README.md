@@ -79,29 +79,53 @@ Utilizei a área de conversa para realizar perguntas sobre o conteúdo das fonte
 Exemplos:
 
 ### Pergunta 1: Como Luiz Barsi calcula o preço teto de uma ação?
+
 **Resposta resumida:**
-- Fórmula base: Preço Teto = Dividendo por Ação (DPA) ÷ Yield Mínimo Esperado
-- Barsi usa 6% ao ano como yield mínimo histórico de referência
-- Existem 2 métodos para definir o DPA: média dos dividendos pagos nos últimos 6 anos (mais conservador) ou dividendo projetado (lucro projetado × payout, ou guidance da empresa)
-- Recomenda excluir dividendos extraordinários/não recorrentes do cálculo da média
-- Ação abaixo do preço teto = "barata" (margem de segurança); acima do teto = melhor esperar ou buscar outro ativo
-- Método funciona melhor em setores perenes e previsíveis (ex: BESST); menos eficaz em empresas dependentes de commodities ou câmbio
-  
+Luiz Barsi calcula o preço teto de uma ação a partir da fórmula
+Preço Teto = Dividendo por Ação (DPA) ÷ Yield Mínimo Esperado, usando
+6% ao ano como seu yield mínimo histórico de referência. Para definir
+o DPA, ele utiliza dois métodos possíveis: a média dos dividendos
+pagos nos últimos 6 anos (mais conservador) ou o dividendo projetado,
+calculado a partir do lucro projetado multiplicado pelo payout, ou
+com base no guidance da própria empresa. Barsi recomenda excluir
+dividendos extraordinários ou não recorrentes desse cálculo, para não
+distorcer a média. Na prática, uma ação negociada abaixo do preço
+teto é considerada "barata" e oferece margem de segurança, enquanto
+uma ação acima do teto indica que é melhor esperar ou buscar outro
+ativo. Esse método funciona melhor em setores perenes e previsíveis,
+como os do acrônimo BESST, sendo menos eficaz em empresas dependentes
+de commodities ou variações cambiais.
+
+---
+
 ### Pergunta 2: O que Barsi indica para investidores iniciantes?
-**Resposta resumida:**
-- Base é a "Filosofia Previdenciária": ações como fonte de renda mensal vitalícia, não especulação
-- Foco na renda gerada (dividendos), não no valor total da carteira
-- Método BESST para seleção de setores: Bancos, Energia Elétrica, Saneamento, Seguros, Telecomunicações (evitar setores cíclicos como aviação, varejo, turismo)
-- Prática recomendada: aportes mensais frequentes + reinvestimento integral dos dividendos ("bola de neve") — a partir do 6º ano, os próprios dividendos costumam bancar novas compras
-- Mentalidade de "pequeno dono": estudar a empresa, entender balanços, não vender se o dono majoritário não vende
-- Evitar modismos e "dicas" de mercado (ex: criptomoedas)
-- Os primeiros R$ 100 mil são os mais difíceis de acumular — fase de disciplina antes dos juros compostos ficarem visíveis
 
-  
-- ### Pergunta 3: Em que ano nasceu Luiz Barsi Filho?
 **Resposta resumida:**
-- Nasceu em 10 de março de 1939, no bairro do Brás, em São Paulo
+As recomendações de Barsi para iniciantes partem da "Filosofia
+Previdenciária", que trata as ações como fonte de renda mensal
+vitalícia, e não como instrumento de especulação — por isso, o foco
+deve estar na renda gerada pelos dividendos, e não no valor total da
+carteira. Para selecionar ativos, ele recomenda o método BESST
+(Bancos, Energia Elétrica, Saneamento, Seguros e Telecomunicações),
+evitando setores cíclicos como aviação, varejo e turismo. Na prática,
+ele sugere aportes mensais frequentes combinados com o reinvestimento
+integral dos dividendos, criando um efeito de "bola de neve" que, a
+partir do sexto ano, costuma ser suficiente para financiar novas
+compras sem necessidade de dinheiro novo. Barsi também defende uma
+mentalidade de "pequeno dono": estudar a empresa, entender seus
+balanços e não vender as ações se o dono majoritário também não
+vende, além de evitar modismos e "dicas" de mercado, como
+criptomoedas. Por fim, ele destaca que os primeiros R$ 100 mil são a
+fase mais difícil de acumular, exigindo disciplina antes que os
+juros compostos comecem a se tornar visíveis.
 
+---
+
+### Pergunta 3: Em que ano nasceu Luiz Barsi Filho?
+
+**Resposta resumida:**
+Luiz Barsi Filho nasceu em 10 de março de 1939, no bairro do Brás,
+em São Paulo.
 ### 6. Consolidação dos Resultados
 
 Os conteúdos gerados pela ferramenta permitiram transformar diversas fontes em um material organizado e fácil de consultar com respostas muito satisfatórias.
