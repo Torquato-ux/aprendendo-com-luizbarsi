@@ -86,7 +86,7 @@ Durante a atividade aprendi que o NotebookLM:
 
 ### Notebook criado
 
-[notebooklm-luizbarsi.png](https://notebooklm.google.com/notebook/cb22c817-4502-4222-b673-f3bebfe7dc9b?pli=1)
+[Aprenda com o rei da bolsa: Luiz Barsi](https://notebooklm.google.com/notebook/cb22c817-4502-4222-b673-f3bebfe7dc9b?pli=1)
 
 
 ## Infográfico gerado pelo NotebookLM
