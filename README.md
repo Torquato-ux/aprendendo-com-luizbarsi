@@ -43,6 +43,17 @@ Foram adicionadas múltiplas fontes relacionadas ao tema, incluindo:
 - Conteúdos educacionais;
 - Materiais sobre a estratégia de investimentos de Luiz Barsi.
 
+Videos do Youtube:
+[Como Luiz Barsi ficou Bilionário Investindo em Ações](https://youtu.be/at-bQ612x7w?is=oKYioVSOdrk7rD3u)
+[18 MINUTOS DE CONSELHOS BRUTALMENTE HONESTOS SOBRE INVESTIMENTOS (C/ LUIZ BARSI)](https://youtu.be/NMGmeNwj4lo?is=lzVP8KVx82ve8ZtR)
+[Como Luiz BARSI Se Tornou O MAIOR INVESTIDOR do Brasil | O Rei Dos Dividendos](https://youtu.be/ozpG1WqTlYA?is=k7SFXQ6EbJmgH1-T)
+[Como os Primeiros R$100 MIL Viram 1 MILHÃO](https://youtu.be/y05NMGqRpdE?is=ssepYNTPV8stYkhD)
+
+Textos e matérias:
+https://www.suno.com.br/tudo-sobre/luiz-barsi/
+https://investnews.com.br/perfis/luiz-barsi/ 
+https://pt.wikipedia.org/wiki/Luiz_Barsi_Filho
+
 Além disso, utilizei da utilidade da propria ferramenta de "Pesquise novas fontes na Web" que enriqueceu a possibilidade de estudos, ao final, o notebook continha 19 fontes.
 
 ### 4. Exploração dos Recursos
