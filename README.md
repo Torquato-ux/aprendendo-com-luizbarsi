@@ -146,6 +146,83 @@ informações essenciais.
 
 Os conteúdos gerados pela ferramenta permitiram transformar diversas fontes em um material organizado e fácil de consultar com respostas muito satisfatórias.
 
+## Miniguia de Estudo: O Jeito Barsi de Investir
+
+Este miniguia consolida o resultado final obtido no NotebookLM, com base
+em todas as fontes, no infográfico "O Jeito Barsi de Investir" gerado pela ferramenta e nas
+interações realizadas na área de conversa.
+
+### Resumo Estruturado
+
+O método de Luiz Barsi para construir uma "Carteira Previdenciária" 
+(aposentadoria via dividendos) se apoia em dois filtros complementares,
+conforme organizado pelo próprio infográfico gerado no NotebookLM:
+
+**1. Filtro Qualitativo — Onde Investir**
+
+Foco na qualidade e perenidade das empresas:
+- Setores prioritários, resumidos no método **BESST**: Bancos, Energia,
+  Seguros, Saneamento e Telecomunicações
+- Mentalidade de "pequeno dono": investir em empresas vitoriosas com
+  foco na quantidade de ações possuídas, não na oscilação do preço
+- Setores a evitar ("à prova de Barsi"): Aviação, Varejo, Frigoríficos,
+  Construção Civil e Turismo — considerados muito cíclicos ou arriscados
+
+**2. Filtro Quantitativo — A Matemática dos Dividendos**
+
+Foco nos números e no longo prazo:
+- **Regra do Preço Teto (6%):** o preço máximo a pagar por uma ação é
+  o Dividendo por Ação (DPA) médio dividido por 0,06
+- **Efeito "Bola de Neve":** reinvestir 100% dos dividendos recebidos
+  acelera o acúmulo de patrimônio e o recebimento de proventos futuros
+- **Redução do custo de aquisição (exemplo CESP):** com reinvestimento
+  e bonificações ao longo do tempo, o custo real por ação cai
+  progressivamente — no exemplo do infográfico, de Cr$ 0,90 por ação
+  (início, com 1.000 ações) para Cr$ 0,34 por ação após 30 meses
+  (com 1.558 ações acumuladas)
+- **Pilares do sucesso (PDP):** Prioridade, Disciplina e Paciência —
+  o sucesso depende de aportes constantes e foco no longuíssimo prazo
+
+---
+
+### Glossário
+
+| Termo | Definição |
+|---|---|
+| **Carteira Previdenciária** | Carteira de ações montada com o objetivo de gerar renda vitalícia via dividendos, como uma aposentadoria própria |
+| **Filtro Qualitativo** | Etapa de seleção de empresas com base em setor, perenidade e estabilidade |
+| **Filtro Quantitativo** | Etapa de análise numérica: preço teto, dividend yield e custo de aquisição |
+| **Preço Teto** | Valor máximo a pagar por uma ação para garantir o retorno mínimo desejado em dividendos |
+| **DPA (Dividendo por Ação)** | Valor total distribuído em dividendos dividido pelo número de ações |
+| **Método BESST** | Setores prioritários de Barsi: Bancos, Energia, Seguros, Saneamento, Telecomunicações |
+| **Efeito Bola de Neve** | Reinvestimento contínuo dos dividendos recebidos, que acelera o crescimento da carteira |
+| **Custo Real por Ação** | Custo médio de aquisição de uma ação, que tende a cair com o tempo por conta de reinvestimentos e bonificações |
+| **PDP** | Prioridade, Disciplina e Paciência — os três pilares comportamentais do método Barsi |
+
+---
+
+### Prompts Reutilizáveis para Estudos Futuros
+
+Prompts efetivamente testados no notebook, generalizados para poderem
+ser reaproveitados em outros temas ou revisões futuras:
+
+1. **Perguntar um dado histórico específico de uma fonte:**
+   > "Qual era [métrica específica, ex: a média de dividendos] de [empresa/tema] em [ano]?"
+
+2. **Extrair uma recomendação prática:**
+   > "O que [autor/fonte] recomenda sobre [prática específica, ex: reinvestir dividendos recebidos]?"
+
+3. **Entender o funcionamento de um conceito:**
+   > "Como funciona o [conceito, ex: efeito 'bola de neve'] no método de [autor/tema]?"
+
+4. **Checar um fato biográfico ou histórico:**
+   > "Em que ano [evento específico]? Responda de forma direta, citando a fonte."
+
+5. **Controlar o tamanho da resposta (lição aprendida neste projeto):**
+   > "Responda de forma objetiva, em até 3 frases ou em bullets, sem texto introdutório."
+
+6. **Gerar material de revisão a partir das fontes:**
+   > "Com base nas fontes carregadas, crie um resumo estruturado dividido por filtros/categorias, e um glossário com os principais termos técnicos."
 ---
 
 ## Aprendizados Obtidos
