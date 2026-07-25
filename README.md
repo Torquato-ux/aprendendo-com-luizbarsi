@@ -54,8 +54,11 @@ Videos do Youtube:
 [Como os Primeiros R$100 MIL Viram 1 MILHÃO](https://youtu.be/y05NMGqRpdE?is=ssepYNTPV8stYkhD)
 
 Textos e matérias:
+
 https://www.suno.com.br/tudo-sobre/luiz-barsi/
+
 https://investnews.com.br/perfis/luiz-barsi/ 
+
 https://pt.wikipedia.org/wiki/Luiz_Barsi_Filho
 
 Além disso, utilizei da utilidade da propria ferramenta de "Pesquise novas fontes na Web" que enriqueceu a possibilidade de estudos, ao final, o notebook continha 19 fontes.
