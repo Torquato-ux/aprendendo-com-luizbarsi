@@ -91,7 +91,7 @@ Durante a atividade aprendi que o NotebookLM:
 
 ## Infográfico gerado pelo NotebookLM
 
-![Infográfico gerado pelo NotebookLM](O_Jeito_)
+![Infográfico gerado pelo NotebookLM](O_Jeito_Barsi_de_Investir.png)
 
 ---
 
