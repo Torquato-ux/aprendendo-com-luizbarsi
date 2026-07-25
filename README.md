@@ -55,11 +55,11 @@ Videos do Youtube:
 
 Textos e matérias:
 
-https://www.suno.com.br/tudo-sobre/luiz-barsi/
+[Biografia de Luiz Barsi](https://www.suno.com.br/tudo-sobre/luiz-barsi/)
 
-https://investnews.com.br/perfis/luiz-barsi/ 
+[Quem é Luiz Barsi](https://investnews.com.br/perfis/luiz-barsi/) 
 
-https://pt.wikipedia.org/wiki/Luiz_Barsi_Filho
+[Wikipédia Luiz Barsi Filho](https://pt.wikipedia.org/wiki/Luiz_Barsi_Filho)
 
 Além disso, utilizei da utilidade da propria ferramenta de "Pesquise novas fontes na Web" que enriqueceu a possibilidade de estudos, ao final, o notebook continha 19 fontes.
 
