@@ -44,6 +44,7 @@ Foram adicionadas múltiplas fontes relacionadas ao tema, incluindo:
 - Materiais sobre a estratégia de investimentos de Luiz Barsi.
 
 Videos do Youtube:
+
 [Como Luiz Barsi ficou Bilionário Investindo em Ações](https://youtu.be/at-bQ612x7w?is=oKYioVSOdrk7rD3u)
 
 [18 MINUTOS DE CONSELHOS BRUTALMENTE HONESTOS SOBRE INVESTIMENTOS (C/ LUIZ BARSI)](https://youtu.be/NMGmeNwj4lo?is=lzVP8KVx82ve8ZtR)
